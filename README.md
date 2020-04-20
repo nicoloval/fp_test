@@ -6,8 +6,9 @@
 
 https://nicoloval.github.io/fp_test/
 
-# My Blog
+# My Test for Fast Pages blog
 
+Che ne dici, sembra funzionare cosi?
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
